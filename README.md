@@ -2,7 +2,7 @@
 
 > Mint decoy credentials. Place them in the spots an attacker would search after a breach. Get an alert the moment one fires.
 
-[![Tests](https://img.shields.io/badge/tests-19%2F19%20passing-success.svg)]()
+[![CI](https://github.com/forgehk/honeytoken-sentinel/actions/workflows/ci.yml/badge.svg)](https://github.com/forgehk/honeytoken-sentinel/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
